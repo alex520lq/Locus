@@ -1,0 +1,8 @@
+F:\AGENT\locus\locus_hotreload_runtime\bin\Release\netstandard2.0\Locus.HotReload.Runtime.deps.json
+F:\AGENT\locus\locus_hotreload_runtime\bin\Release\netstandard2.0\Locus.HotReload.Runtime.dll
+F:\AGENT\locus\locus_hotreload_runtime\obj\Release\netstandard2.0\LocusHotReloadRuntime.csproj.AssemblyReference.cache
+F:\AGENT\locus\locus_hotreload_runtime\obj\Release\netstandard2.0\LocusHotReloadRuntime.GeneratedMSBuildEditorConfig.editorconfig
+F:\AGENT\locus\locus_hotreload_runtime\obj\Release\netstandard2.0\LocusHotReloadRuntime.AssemblyInfoInputs.cache
+F:\AGENT\locus\locus_hotreload_runtime\obj\Release\netstandard2.0\LocusHotReloadRuntime.AssemblyInfo.cs
+F:\AGENT\locus\locus_hotreload_runtime\obj\Release\netstandard2.0\LocusHotReloadRuntime.csproj.CoreCompileInputs.cache
+F:\AGENT\locus\locus_hotreload_runtime\obj\Release\netstandard2.0\Locus.HotReload.Runtime.dll
